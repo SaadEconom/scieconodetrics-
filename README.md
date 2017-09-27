@@ -1,3 +1,3 @@
-# scieconodetrics-
-Data science and econometrics
-This is about applied econometrics using python programming language, but we could use other programming languages mainly R from time to time 
+# Scieconodetrics-
+Data science and econometrics:
+This account is about applied Econometrics using mainl Python programming language And R.
